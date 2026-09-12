@@ -5,6 +5,7 @@
 It combines **RGB LED control, Light Flow, notification lighting, AOD themes, Screen Sync, Ambilight, camera flash effects, and customizable lighting animations** in one Android application.
 
 [![Download APK](https://img.shields.io/badge/Download-APK-00C853?style=for-the-badge&logo=android&logoColor=white)](../../releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/koukic223/koukic223-Strike-RGB-CrossDroid?label=Latest%20Release&style=flat-square)](../../releases/latest)
 
 ### Features
 
