@@ -8,6 +8,8 @@ It combines **RGB LED control, Light Flow, notification lighting, AOD themes, Sc
 [![Latest Release](https://img.shields.io/github/v/release/koukic223/koukic223-Strike-RGB-CrossDroid?label=Latest%20Release&style=flat-square)](../../releases/latest)
 [![Download Latest](https://img.shields.io/badge/⬇️%20Download%20Latest-v0.9-00C853?style=for-the-badge&logo=android&logoColor=white)](../../releases/latest)
 [![All Versions](https://img.shields.io/badge/📦%20All%20Versions-Releases-7C4DFF?style=for-the-badge&logo=github&logoColor=white)](../../releases)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luffy.2z)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/7alawlaw_gb)
 
 ### Features
 
