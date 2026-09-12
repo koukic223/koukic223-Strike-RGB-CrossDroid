@@ -17,3 +17,29 @@ It combines **RGB LED control, Light Flow, notification lighting, AOD themes, Sc
 * 🔐 Root and Magisk hardware control
 * 📱 ARMv7-A, ARM64-v8a, x86 and x86_64 support
 * ⚡ Performance modes for low-end Android and Android Go devices
+
+## Compatibility
+
+| Platform | Support |
+|---|---|
+| Android 4.x → Latest | ✅ |
+| ARMv7-A (32-bit) | ✅ |
+| ARM64-v8a | ✅ |
+| x86 | ✅ |
+| x86_64 | ✅ |
+| Android Go | ✅ |
+| Root / Magisk | ✅ |
+| RGB LED / Sysfs | ✅ |
+| Camera Flash | ✅ |
+| Screen Sync / Ambilight | ✅ |
+| AOD / Ambient Notification | ✅ |
+
+### Performance
+
+- ⚡ Lightweight effect engine
+- 🎨 HSV smooth color interpolation
+- 🔄 Frame-rate-independent animations
+- 📱 Optimized for low-end Android devices
+- 🧠 Low-resolution Screen Sync sampling
+- 💾 Cached/downscaled AOD backgrounds
+- 🔋 Reduced processing on Android Go devices
