@@ -76,3 +76,14 @@ ambient light control setting
 <img width="349" height="617" alt="image" src="https://github.com/user-attachments/assets/5fed5eb9-bf9e-4a0b-aedf-33d38cce7071" />
 ## about application
 <img width="329" height="218" alt="image" src="https://github.com/user-attachments/assets/cf4e241b-c1e8-4120-acd4-7a309f8a0161" />
+## ✨ What's new in v0.9
+
+- 🌈 Advanced RGB Light Flow
+- 🔔 Notification Light Flow
+- 🌙 AOD & Ambient effects
+- 🖥️ Screen Sync / Ambilight / Edge Sync
+- 🔮 Liquid Glass themes
+- 🎨 Custom effects & presets
+- 🔐 Root & Magisk hardware control
+- 📱 ARMv7 / ARM64 / x86 / x86_64
+- ⚡ Optimizations for low-end Android devices
