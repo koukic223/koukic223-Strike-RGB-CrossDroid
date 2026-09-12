@@ -1,1 +1,1 @@
-Strike RGB CrossDroid with Final Cut Pro aesthetic icon, Android 2.1 API 7 CrossDroid compatibility engine, and modern Pixel UI for root LED hardware.
+Strike RGB CrossDroid — Universal Android RGB, AOD, Light Flow, Screen Sync and notification lighting engine for ARMv7, ARM64, x86 and x86_64.
