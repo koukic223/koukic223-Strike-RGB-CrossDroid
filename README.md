@@ -43,3 +43,18 @@ It combines **RGB LED control, Light Flow, notification lighting, AOD themes, Sc
 - 🧠 Low-resolution Screen Sync sampling
 - 💾 Cached/downscaled AOD backgrounds
 - 🔋 Reduced processing on Android Go devices
+
+## Search keywords
+
+Android RGB LED app  
+Android RGB lighting  
+Android notification LED  
+Android Light Flow  
+Android AOD effects  
+Android Ambilight  
+Android Screen Sync  
+RGB notification light  
+Magisk RGB LED  
+Android Go RGB app  
+ARM32 RGB Android app  
+ARMv7 RGB LED controller
