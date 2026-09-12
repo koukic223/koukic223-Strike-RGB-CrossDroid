@@ -6,6 +6,8 @@ It combines **RGB LED control, Light Flow, notification lighting, AOD themes, Sc
 
 [![Download APK](https://img.shields.io/badge/Download-APK-00C853?style=for-the-badge&logo=android&logoColor=white)](../../releases/latest)
 [![Latest Release](https://img.shields.io/github/v/release/koukic223/koukic223-Strike-RGB-CrossDroid?label=Latest%20Release&style=flat-square)](../../releases/latest)
+[![Download Latest](https://img.shields.io/badge/⬇️%20Download%20Latest-v0.9-00C853?style=for-the-badge&logo=android&logoColor=white)](../../releases/latest)
+[![All Versions](https://img.shields.io/badge/📦%20All%20Versions-Releases-7C4DFF?style=for-the-badge&logo=github&logoColor=white)](../../releases)
 
 ### Features
 
