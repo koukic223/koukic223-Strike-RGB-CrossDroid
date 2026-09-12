@@ -58,3 +58,21 @@ Magisk RGB LED
 Android Go RGB app  
 ARM32 RGB Android app  
 ARMv7 RGB LED controller
+
+## Screenshots
+
+## Screenshots
+home
+<img width="329" height="618" alt="image" src="https://github.com/user-attachments/assets/0be89b75-dce3-4728-a4d9-4a5cc2bb5cda" />
+effects
+<img width="341" height="620" alt="image" src="https://github.com/user-attachments/assets/48871185-8c74-4523-a783-abffb10cf1d3" />
+color patellet picker
+<img width="352" height="616" alt="image" src="https://github.com/user-attachments/assets/fc50efdf-bbe1-4bfa-8db7-12ce11857a4c" />
+setting page
+<img width="348" height="615" alt="image" src="https://github.com/user-attachments/assets/74574893-d9fa-446d-9d68-ed863a5b577f" />
+language picker
+<img width="341" height="619" alt="image" src="https://github.com/user-attachments/assets/6a4d5efb-201d-4670-9364-078d53c4d09b" />
+ambient light control setting
+<img width="349" height="617" alt="image" src="https://github.com/user-attachments/assets/5fed5eb9-bf9e-4a0b-aedf-33d38cce7071" />
+## about application
+<img width="329" height="218" alt="image" src="https://github.com/user-attachments/assets/cf4e241b-c1e8-4120-acd4-7a309f8a0161" />
