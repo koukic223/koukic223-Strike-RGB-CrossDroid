@@ -4,6 +4,8 @@
 
 It combines **RGB LED control, Light Flow, notification lighting, AOD themes, Screen Sync, Ambilight, camera flash effects, and customizable lighting animations** in one Android application.
 
+[![Download APK](https://img.shields.io/badge/Download-APK-00C853?style=for-the-badge&logo=android&logoColor=white)](../../releases/latest)
+
 ### Features
 
 * 🌈 RGB Light Flow and smooth HSV color transitions
