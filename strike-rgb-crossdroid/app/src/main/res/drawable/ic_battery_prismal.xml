@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Battery Outer Shell -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="@color/prismal_primary"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M6,4 L18,4 A2,2 0 0,1 20,6 L20,18 A2,2 0 0,1 18,20 L6,20 A2,2 0 0,1 4,18 L4,6 A2,2 0 0,1 6,4 Z" />
+    <!-- Battery Top Terminal -->
+    <path
+        android:fillColor="@color/prismal_cyan"
+        android:pathData="M9,2 L15,2 A1,1 0 0,1 16,3 L8,3 A1,1 0 0,1 9,2 Z" />
+    <!-- Matrix Battery Dr Lightning / Telemetry Pulse -->
+    <path
+        android:fillColor="@color/prismal_cyan"
+        android:pathData="M12.5,7 L8.5,13 L11.5,13 L10.5,18 L15.5,11.5 L12.5,11.5 Z" />
+</vector>
